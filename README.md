@@ -4,7 +4,8 @@ Il s'agit d'un projet personnel, qui me permet de mettre en oeuvre plusieurs id�
 
 La version originale de ce document est datée du 19 octobre 2025.
 
-J'ai envie de pouvoir fournir un site web avec des parties publiques et des parties privées, accessibles uniquement pas moi.
+J'ai envie de pouvoir fournir un site web avec des parties publiques: une représentation de ma carrière et des petits projets fun.
+J'aimerais également mettre en place des parties privées accessibles uniquement pas moi.
 
 C'est aussi un terrain de jeu, afin de m'incité à apprendre de nouvelles librairies/outils tout en développant quelque chose d'utile pour moi.
 
