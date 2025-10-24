@@ -15,20 +15,31 @@
     "php": ">=8.4",
     "ext-ctype": "*",
     "ext-iconv": "*",
-    "doctrine/orm": "^3.4",
+    "doctrine/doctrine-bundle": "^2.18",
+    "doctrine/doctrine-migrations-bundle": "^3.5",
+    "doctrine/orm": "^3.5.2",
+    "symfony/asset": "7.3.*",
     "symfony/console": "7.3.*",
     "symfony/dotenv": "7.3.*",
     "symfony/flex": "^2.8.2",
     "symfony/framework-bundle": "7.3.*",
+    "symfony/maker-bundle": "^1.64",
     "symfony/password-hasher": "^7.3",
     "symfony/runtime": "7.3.*",
-    "symfony/security-bundle": "^7.3",
-    "symfony/twig-bundle": "^7.3",
-    "symfony/validator": "^7.3",
+    "symfony/security-bundle": "7.3.*",
+    "symfony/twig-bundle": "7.3.*",
+    "symfony/uid": "7.3.*",
+    "symfony/validator": "^7.3.4",
     "symfony/yaml": "7.3.*"
   },
   "require-dev": {
-    "roave/security-advisories": "dev-latest"
+    "dama/doctrine-test-bundle": "^8.4",
+    "friendsofphp/php-cs-fixer": "^3.89",
+    "phpstan/phpstan": "^2.1",
+    "phpunit/phpunit": "^12.4",
+    "roave/security-advisories": "dev-latest",
+    "symfony/browser-kit": "7.3.*",
+    "symfony/css-selector": "7.3.*"
   },
   "config": {
     "allow-plugins": {
